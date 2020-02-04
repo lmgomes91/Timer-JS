@@ -1,0 +1,35 @@
+:root{
+    background-image: url(../img/bgTimer.jpeg);
+    background-size: auto;
+}
+
+*{
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: var(--pColor);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+    line-height: 1.5em;
+}
+
+.container{
+    max-width: 900px;
+    margin: 50px auto;
+    background: rgba(245, 245, 245, 0.877);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.9;
+
+}
+
+
+.tempo{
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+}
