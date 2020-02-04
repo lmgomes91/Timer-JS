@@ -1,2 +1,2 @@
 # Timer-JS
-Timer desenvolvido utilizando Node.Js
+Timer desenvolvido utilizando Html, CSS, JS e Node.JS
